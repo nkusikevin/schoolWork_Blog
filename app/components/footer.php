@@ -5,8 +5,10 @@
       <div class="footer-section about">
         <h1 class="logo-text"><span>Daily</span>Report</h1>
         <p>
-          AwaInspires is a fictional blog conceived for the purpose of a tutorial on YouTube.
-          However, Awa has a blog called pieceofadvice.org where he writes truly inspiring stuff.
+          DailyReport is blog which provides students all  daily updates
+          all announcement from the office of gild president are passed 
+          posted here.
+          <h4>happy coding for those who love it!! </h4>
         </p>
         <div class="contact">
           <span><i class="fas fa-phone"></i> &nbsp; 123-456-789</span>
